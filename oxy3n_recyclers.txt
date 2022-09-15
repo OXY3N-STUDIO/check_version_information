@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"Launch Update"}
+{"version":"1.1.0", "notes":"Added the possibility of recycler on a specific coordinate"}
