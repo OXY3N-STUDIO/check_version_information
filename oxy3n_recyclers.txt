@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Props spawn fixed, when starting the script spawn does not work"}
+{"version":"1.2.0", "notes":"Added the QB-Menu support and new configuration events in the config"}
