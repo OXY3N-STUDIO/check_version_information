@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"First update"}
+{"version":"1.0.1", "notes":"Added props for download in CFX.RE Assets Manager and Discord"}
