@@ -1,0 +1,1 @@
+{"version":"1.0.1", "notes":"Fixed onigiri and ramen coordinates"}
