@@ -1,1 +1,4 @@
-{"version":"1.2.0", "notes":"Added the QB-Menu support and new configuration events in the config"}
+{
+    "version":"2.0.0",
+    "notes":"Added support for multiple menus, QBCore and queue processing system"
+}
