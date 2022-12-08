@@ -1,4 +1,4 @@
 {
-    "version":"2.0.0",
-    "notes":"Added support for multiple menus, QBCore and queue processing system"
+    "version":"2.0.1",
+    "notes":"Bug fixes for QBCore, Added QB-Target support. ESX bug fixes"
 }
