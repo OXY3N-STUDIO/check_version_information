@@ -1,4 +1,4 @@
 {
-    "version":"2.0.1",
-    "notes":"Bug fixes for QBCore, Added QB-Target support. ESX bug fixes"
+    "version":"2.0.1 - ALPHA 1",
+    "notes":"Rewrote the code that detected the inventory in QBCore due to inventory failures. This is an alpha, it is requested to test and report possible bugs. Added notification when an item is added to the recycler."
 }
