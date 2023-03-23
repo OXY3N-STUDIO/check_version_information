@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"QBCore Version launched"}
+{"version":"1.1.1", "notes":"Fixed errors in QBCore Version"}
